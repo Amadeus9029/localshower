@@ -1,0 +1,7 @@
+README.md
+setup.py
+localshower/__init__.py
+localshower_amadeus.egg-info/PKG-INFO
+localshower_amadeus.egg-info/SOURCES.txt
+localshower_amadeus.egg-info/dependency_links.txt
+localshower_amadeus.egg-info/top_level.txt
